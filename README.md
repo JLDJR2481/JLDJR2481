@@ -21,12 +21,15 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
 ## Contacto✉️
 
 - _Correo personal_ 🤵: **jose.luis.de.jesus.ramon@gmail.com**
-- _Correo profesional_ 💼: **jjesusramon@cifpfbmoll.eu**
+- _Correo escolar_ 💼: **jjesusramon@cifpfbmoll.eu**
 
 ### Informacion grafica 📊📈
+![](https://gpvc.arturio.dev/JLDJR2481)
+![](https://www.codewars.com/users/JLDJR2481/badges/small)
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JLDJR2481)
 ![](https://activity-graph.herokuapp.com/graph?username=JLDJR2481&theme=minimal)
----
-![](https://gpvc.arturio.dev/JLDJR2481)
+
+
 
 
