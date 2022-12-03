@@ -29,7 +29,7 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
 ---
 ![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&layout=compact)
 
 
 
