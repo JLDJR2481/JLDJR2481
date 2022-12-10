@@ -9,7 +9,7 @@ En este momento, estoy cacharreando🧰 como desarrollador de aplicaciones webs 
 de FP en el [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/), con esperanzas y ganas de trabajar
 en una empresa.
 
-## ¿Que estoy aprendiendo?🧑‍🎓
+## ¿Que estoy aprendiendo actualmente?🧑‍🎓
 Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
