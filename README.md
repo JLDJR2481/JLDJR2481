@@ -19,7 +19,7 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contacto✉️
@@ -30,10 +30,14 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
 ### Informacion grafica 📊📈
 ![](https://gpvc.arturio.dev/JLDJR2481)
 ![](https://www.codewars.com/users/JLDJR2481/badges/small)
----
+
 ![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&theme=radical)
+![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=github)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&layout=compact)
+
+
+
 
 
 
