@@ -32,9 +32,10 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
 ![](https://www.codewars.com/users/JLDJR2481/badges/small)
 
 ![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&layout=compact&theme=radical)
+
 ![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=github)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&layout=compact)
 
 
 
