@@ -12,7 +12,7 @@ Mi verdadero nombre es **José Luis**, soy un **programador** en estado de
 _WIP_.
 
 En este momento, estoy cacharreando🧰 como desarrollador de aplicaciones webs en un curso
-de FP en el [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/), con esperanzas y ganas de trabajar
+de FP con la modalidad **DUAL/INTENSIVA** en el [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/), con esperanzas y ganas de trabajar
 en una empresa.
 
 ## ¿Que estoy aprendiendo actualmente?🧑‍🎓 
