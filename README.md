@@ -1,12 +1,11 @@
 <div align=center>
 
 # 👋 Buenas! Soy Xulo 🎧
-
-
-  <img src=https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif width=75%>
+  <img src=https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif width=70%>
 
   
 ## Pequeña presentación
+  
 Mi verdadero nombre es **José Luis**, soy un **programador** en estado de 
 _WIP_.
 
@@ -46,17 +45,19 @@ _Correo personal_ 🤵: **jose.luis.de.jesus.ramon@gmail.com**
   
 _Correo escolar_ 💼: **jjesusramon@cifpfbmoll.eu**
   
-![https://www.linkedin.com/in/jos%C3%A9-luis-de-jes%C3%BAs-ram%C3%B3n-ba245026a/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/jos%C3%A9-luis-de-jes%C3%BAs-ram%C3%B3n-ba245026a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### Información gráfica 📊📈 
+## Información gráfica 📊📈 
+  
 ![](https://gpvc.arturio.dev/JLDJR2481)
 ![](https://www.codewars.com/users/JLDJR2481/badges/small)
 
-![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&compact=layout&theme=highcontrast)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&theme=highcontrast)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JLDJR2481&theme=github_dark)
 
-  ![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=high-contrast)
+![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&layout=compact&theme=highcontrast)
+
+![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=high-contrast)
 
 </div>
 
