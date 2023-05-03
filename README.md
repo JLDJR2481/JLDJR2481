@@ -7,7 +7,6 @@
 
   
 ## Pequeña presentación
-
 Mi verdadero nombre es **José Luis**, soy un **programador** en estado de 
 _WIP_.
 
@@ -30,6 +29,7 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -37,19 +37,22 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
   
 - ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)  
+  
 ## Contacto✉️ 
 
 - _Correo personal_ 🤵: **jose.luis.de.jesus.ramon@gmail.com**
 - _Correo escolar_ 💼: **jjesusramon@cifpfbmoll.eu**
+- ![https://www.linkedin.com/in/jos%C3%A9-luis-de-jes%C3%BAs-ram%C3%B3n-ba245026a/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Información gráfica 📊📈 
   ![](https://gpvc.arturio.dev/JLDJR2481)
   ![](https://www.codewars.com/users/JLDJR2481/badges/small)
 
-  ![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&theme=radical)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&layout=compact&theme=radical)
+- ![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&compact=layout&theme=highcontrast)
+  - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&theme=highcontrast)
 
-  ![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=github)
+  ![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=high-contrast)
 
 </div>
 
