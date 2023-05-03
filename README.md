@@ -49,8 +49,9 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
   ![](https://gpvc.arturio.dev/JLDJR2481)
   ![](https://www.codewars.com/users/JLDJR2481/badges/small)
 
-- ![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&compact=layout&theme=highcontrast)
-  - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&theme=highcontrast)
+![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&compact=layout&theme=highcontrast)
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&theme=highcontrast)
 
   ![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=high-contrast)
 
