@@ -37,7 +37,8 @@ Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
   
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)
   
 ## Contacto✉️ 
 
