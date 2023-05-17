@@ -10,8 +10,9 @@ Mi verdadero nombre es **José Luis**, soy un **programador** en estado de
 _WIP_.
 
 En este momento, estoy cacharreando🧰 como desarrollador de aplicaciones webs en un curso
-de FP con la modalidad **DUAL/INTENSIVA** en el [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/), con esperanzas y ganas de trabajar
-en una empresa.
+de FP con la modalidad **DUAL/INTENSIVA** en el [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/). El principal objetivo personal es la de permitirme desarrollarme como informatico y crecer en el mundo laboral.
+  
+Actualmente, estoy ocupando un puesto de Desarrollador UX/UI en [Barceló Hotel Group](https://www.linkedin.com/company/barcelo-hotel-group/jobs/).
 
 ## ¿Que estoy aprendiendo actualmente?🧑‍🎓 
 Gracias a este grado superior de DAW, tengo acceso al aprendizaje de:
