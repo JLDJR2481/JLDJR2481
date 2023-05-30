@@ -59,7 +59,7 @@ _Correo escolar_ 💼: **jjesusramon@cifpfbmoll.eu**
 ![JLDJR2481's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLDJR2481&show_icons=true&theme=highcontrast)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jldjr2481&show_icons=true&layout=compact&theme=highcontrast)
 
-![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=high-contrast)
+ <!--![GitHub stats in graph](https://github-readme-activity-graph.cyclic.app/graph?username=JLDJR2481&theme=high-contrast) -->
 
 </div>
 
