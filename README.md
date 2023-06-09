@@ -15,7 +15,7 @@ de FP con la modalidad **DUAL/INTENSIVA** en el [CIFP Francesc de Borja Moll](ht
 Actualmente, estoy ocupando un puesto de Desarrollador UX/UI en [Barceló Hotel Group](https://www.linkedin.com/company/barcelo-hotel-group/jobs/).
 
 ## ¿Que estoy aprendiendo actualmente?🧑‍🎓 
-Gracias a este grado superior de DAW y al enseñanza actual en la empresa, tengo acceso al aprendizaje y/o mejora de:
+Gracias a este grado superior de DAW y la enseñanza actual en la empresa, tengo acceso al aprendizaje y/o mejora de:
   
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
