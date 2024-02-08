@@ -12,7 +12,7 @@ _WIP_.
 En este momento, estoy cacharreando🧰 como desarrollador de aplicaciones webs en un curso
 de FP con la modalidad **DUAL/INTENSIVA** en el [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/). El principal objetivo personal es la de permitirme desarrollarme como informatico y crecer en el mundo laboral.
   
-Actualmente, estoy ocupando un puesto de Desarrollador UX/UI en [Barceló Hotel Group](https://www.linkedin.com/company/barcelo-hotel-group/jobs/) (Con toque de análisis funcional, incidental y técnico 😜).
+Actualmente, estoy ocupando un puesto de técnico en [Barceló Hotel Group](https://www.linkedin.com/company/barcelo-hotel-group/jobs/) como analisista funcional y gestión incidental, entre otros.
 
 ## ¿Que estoy aprendiendo actualmente?🧑‍🎓 
 Gracias a este grado superior de DAW y la enseñanza actual en la empresa, tengo acceso al aprendizaje y/o mejora de:
@@ -35,7 +35,7 @@ Gracias a este grado superior de DAW y la enseñanza actual en la empresa, tengo
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,6 +55,7 @@ Gracias a este grado superior de DAW y la enseñanza actual en la empresa, tengo
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   
 ## Contacto✉️ 
 
