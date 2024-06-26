@@ -9,13 +9,9 @@
 Mi verdadero nombre es **José Luis**, soy un **programador** en estado de 
 _WIP_.
 
-En este momento, estoy cacharreando🧰 como desarrollador de aplicaciones webs en un curso
-de FP con la modalidad **DUAL/INTENSIVA** en el [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/). El principal objetivo personal es la de permitirme desarrollarme como informatico y crecer en el mundo laboral.
-  
-Actualmente, estoy ocupando un puesto de técnico en [Barceló Hotel Group](https://www.linkedin.com/company/barcelo-hotel-group/jobs/) como analisista funcional y gestión incidental, entre otros.
+Me considero como un chico con muchas ganas de aprender y de hacerse un hueco en este hermoso mundo de la informática.
 
-## ¿Que estoy aprendiendo actualmente?🧑‍🎓 
-Gracias a este grado superior de DAW y la enseñanza actual en la empresa, tengo acceso al aprendizaje y/o mejora de:
+## Conocimientos adquiridos
 
   
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
